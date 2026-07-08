@@ -1,4 +1,4 @@
-# 🚀 Smart Placement Assistant
+#  Smart Placement Assistant
 
 > An AI-powered full-stack web application that helps students improve their resumes, identify skill gaps, and receive personalized placement preparation guidance.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 The **Smart Placement Assistant** is a web application designed to help students prepare for placements by analyzing resumes using AI and providing actionable insights.
 
@@ -20,22 +20,22 @@ The platform evaluates resumes, identifies missing skills, recommends learning r
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔐 Secure User Authentication (JWT + bcrypt)
-- 📄 Resume PDF Upload
-- 🤖 AI-Powered Resume Analysis
-- 📊 Resume Score Generation
-- 🎯 Skill Gap Detection
-- 📚 Personalized DSA Roadmap
-- 👤 Student Dashboard
-- 🔍 Resume History
-- 📱 Responsive UI
-- ⚡ RESTful API Architecture
+-  Secure User Authentication (JWT + bcrypt)
+-  Resume PDF Upload
+-  AI-Powered Resume Analysis
+-  Resume Score Generation
+-  Skill Gap Detection
+-  Personalized DSA Roadmap
+-  Student Dashboard
+-  Resume History
+-  Responsive UI
+-  RESTful API Architecture
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -69,7 +69,7 @@ The platform evaluates resumes, identifies missing skills, recommends learning r
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Smart-Placement-Assistant/
@@ -96,7 +96,7 @@ Smart-Placement-Assistant/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone the Repository
 
@@ -226,7 +226,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Nitin Kumar**
 
